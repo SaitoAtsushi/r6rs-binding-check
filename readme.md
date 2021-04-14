@@ -43,3 +43,4 @@ Expand to `#t` if `<keyword>` is an *bound* keyword, and `#f` otherwise.
 - [IronScheme](https://github.com/IronScheme/IronScheme) 1.0.240
 - [Sagittarius](https://bitbucket.org/ktakashi/sagittarius-scheme/wiki/Home) 0.9.7
 - [Ypsilon](http://www.littlewingpinball.com/doc/ja/ypsilon/index.html) 0.9.6-update3
+- [Guile](https://www.gnu.org/software/guile/guile.html) 3.0.5
