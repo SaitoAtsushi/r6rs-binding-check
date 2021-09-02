@@ -33,7 +33,7 @@ Expand to `#t` if `<keyword>` is an *bound* keyword, and `#f` otherwise.
 
 # Scheme implementations that passed the tests of this library
 
-- [Chez Scheme](https://cisco.github.io/ChezScheme/) 9.5.5
+- [Chez Scheme](https://cisco.github.io/ChezScheme/) 9.5.5 (use option `--program`)
 - [Racket](https://racket-lang.org/) 8.0
 - [Larceny](http://www.larcenists.org/) 1.3
 - [mosh](http://mosh.monaos.org/files/doc/text/About-txt.html) 0.2.5
